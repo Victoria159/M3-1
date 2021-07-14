@@ -7,13 +7,13 @@
 На тестирование затрачено: 00:30
 
 В результате тестирования выявлены дефекты:
-https://github.com/Victoria159/M3-1/issues/2#issue-943649093
-https://github.com/Victoria159/M3-1/issues/1#issue-943644447
+* [Длина номера карты на 4-й строке](https://github.com/Victoria159/M3-1/issues/2#issue-943649093)
+* [Изменение длины номера карты](https://github.com/Victoria159/M3-1/issues/1#issue-943644447)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* отчет о тестировании
+* [Тест-кейс](https://drive.google.com/file/d/1MqikPpwXc3842GGecYaCjGgKdg3IaMEY/view?usp=sharing)
 
 
 В качестве тестовых данных использовались данные [генератора валидных номеров карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
